@@ -13,7 +13,7 @@ I'm Marta, a Full Stack developer.
 • Phyton
 • Agile Scrum
 <!--
-**Martasanch/martasanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Martasanch/martasanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 ## &#128165; Skills
