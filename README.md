@@ -1,4 +1,5 @@
-![maRTA SÁNCHEZ GERMÁN](https://user-images.githubusercontent.com/72202876/117711257-493ecb80-b1d3-11eb-9a67-23463acfee26.png)
+![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/72202876/117714930-e996ef00-b1d7-11eb-9fba-47b236ba5cca.png)
+
 ### Hi there 👋
 
 I'm Marta, a Full Stack developer.
