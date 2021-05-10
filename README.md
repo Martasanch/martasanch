@@ -1,4 +1,5 @@
-![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/72202876/117714930-e996ef00-b1d7-11eb-9fba-47b236ba5cca.png)
+![Blue Icon Quote General LinkedIn Banner (1)](https://user-images.githubusercontent.com/72202876/117715759-02ec6b00-b1d9-11eb-8706-14d31026ad55.png)
+
 
 ### Hi there 👋
 
