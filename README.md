@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Marta, a Full Stack developer.
+I'm Marta, a JUnior Full Stack developer.
  ## 🌱 I’m currently learning about: ##
 
 * Javascript
